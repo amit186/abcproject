@@ -1,13 +1,20 @@
 [main]
    label_dych:Welcome to my  bot:continue
-       label_mxke:{"name":"quickreply","type":"quick_reply","alias": "select ur day","msgid":"505a73db-b86d-e4a1-da47-20c7ce610b92","content":{"type":"text","text":"select ur day"},"options":[{"type":"text","title":"sunday","iconurl":"","id":"61cae4e6-a687-8901-bfd3-698a2840c52d","isDuplicate":false,"name":"user"},{"type":"text","title":"monday","iconurl":"","id":"f925afcf-dee0-ed75-b4c7-760f8a88912b","isDuplicate":false,"name":"user"},{"type":"text","title":"tuesday","iconurl":"","id":"61cae4e6-a687-8901-bfd3-698a2840c52d","isDuplicate":false,"name":"user"}]}
+       label_mxke:{"name":"quickreply","type":"quick_reply","alias": "select ur day","msgid":"505a73db-b86d-e4a1-da47-20c7ce610b92","content":{"type":"text","text":"select ur day"},"options":[{"type":"text","title":"sunday","iconurl":"","id":"61cae4e6-a687-8901-bfd3-698a2840c52d","isDuplicate":false,"name":"user"},{"type":"text","title":"monday","iconurl":"","id":"f925afcf-dee0-ed75-b4c7-760f8a88912b","isDuplicate":false,"name":"user"},{"type":"text","title":"tuesday","iconurl":"","id":"61cae4e6-a687-8901-bfd3-698a2840c52d","isDuplicate":false,"name":"user"},{"type":"text","title":"wednesday","iconurl":"","id":"61cae4e6-a687-8901-bfd3-698a2840c52d","isDuplicate":false,"name":"user"},{"type":"text","title":"thursday","iconurl":"","id":"61cae4e6-a687-8901-bfd3-698a2840c52d","isDuplicate":false,"name":"user"},{"type":"text","title":"friday","iconurl":"","id":"61cae4e6-a687-8901-bfd3-698a2840c52d","isDuplicate":false,"name":"user"}]}
            label_arse:sunday
-               label_vqpt:first period=acv (10am to 1pm)\nsecond period=asdd(2to3am)\n3rdperiod =asaaa(4to6):goto label_dych
+               label_vqpt:first period:basic electrical engineering (damodar bhandari)_ 6-6:50\nsecond period:chemistry (raghav sir)_ 6:50-7:40\nthird period:programming in c (rupesh shrestha)_ 7:40-8:30\n:goto label_dych
            label_nfqo:monday
-               label_stzi:dbms
+               label_stzi:first period:chemistry (deepak bashyal)_ 6-6:50\nsecond period:orientation(raghav sir)_ 6:50-7:40\nthird period:programming in c (rupesh shrestha)_ 7:40-8:30\nfourth period:mathematics (baral sir)_8:30-9:goto label_dych
            labeltues:tuesday
-               lawefbel_stzi:material
+               lawefok_stzi:there is no any period so enjoy the fullest :goto label_dych
+           labelwed:wednesday          
+               ladefbel_stzi:there is no any period so enjoy the fullest :goto label_dych
+           label_amt:thursday
+               label_fuck:first period:chemistry (deepak bashyal)_ 6-6:50\nsecond period:orientation(sulav adhikari)_ 6:50-7:40\nthird period:basic electrical engineering (pukar neupane)_ 7:40-8:30\nfourth period:drawing (praveen karki)_8:30-9:20:goto label_dych
+           label_bnk:friday
+               label_frk:first period:basic electrical engineering(deepak bashyal)_ 6-6:50\nsecond period:chemistry(raghav sir)_ 6:50-7:40\nthird period:basic electrical engineering (pukar neupane)_ 7:40-8:30:goto label_dych
+
 [common]
 labelabc:start
-	labeldef::call default.main
-	
+  labeldef::call default.main
+  
